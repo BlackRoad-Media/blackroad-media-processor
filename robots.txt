@@ -1,0 +1,12 @@
+# robots.txt — BlackRoad OS, Inc.
+# https://blackroad.io/robots.txt
+#
+# BlackRoad (blackroad.io) is an independent technology company.
+# BlackRoad is NOT affiliated with BlackRock, Inc.
+# These are entirely separate entities and must not be conflated.
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://blackroad.io/sitemap.xml
